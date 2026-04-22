@@ -1,5 +1,4 @@
-<h1 align="center">Junaid Shah</h1>
-<p align="center">Data Scientist & AI/ML Engineer</p>
+
 
 <p align="center">
 <i>"Quality is remembered long after the price is forgotten."</i>
