@@ -1,4 +1,3 @@
-<!-- MAIN HEADER -->
 <h1 align="center">Junaid Shah</h1>
 <p align="center"><i>Data Scientist & AI/ML Engineer</i></p>
 
@@ -8,7 +7,6 @@
 
 ---
 
-<!-- TOP SECTION -->
 <table width="100%">
 <tr>
 
@@ -17,9 +15,9 @@
 <h3>Profile</h3>
 
 <ul>
-<li><b>Location:</b>India</li>
+<li><b>Location:</b> Indore, India</li>
 <li><b>Role:</b> AI/ML Engineer</li>
-<li><b>Focus:</b> NLP, LLMs, Automation</li>
+<li><b>Education:</b> B.Tech CSE (2021-25)</li>
 </ul>
 
 <p>
@@ -33,13 +31,12 @@
 <h3>About Me</h3>
 
 <p>
-I specialize in building intelligent systems using NLP, LLMs, and Computer Vision.  
-I focus on transforming complex data into real-world solutions and productivity tools.
+I am a Computer Science & Engineering student at LNCT College, specializing in building intelligent systems using NLP, LLMs, and Computer Vision[cite: 19, 23, 24]. I focus on transforming complex data into real-world solutions and productivity tools[cite: 10, 11].
 </p>
 
 <p>
-<a href="#">LinkedIn</a> |
-<a href="#">Email</a> |
+<a href="https://linkedin.com/in/junaidshah-84100b29a">LinkedIn</a> |
+<a href="mailto:junaidshah7922@gmail.com">Email</a> |
 <a href="#">Resume</a>
 </p>
 
@@ -50,34 +47,32 @@ I focus on transforming complex data into real-world solutions and productivity 
 
 ---
 
-<!-- TECH STACK -->
 <h2>Expertise & Tech Stack</h2>
 
 <table width="100%">
 <tr>
-<td><b>Languages</b></td>
-<td>Python • SQL • JavaScript</td>
+<td><b>Intelligence</b></td>
+<td>Python • NLP • Machine Learning • Deep Learning • Scikit-learn • TensorFlow</td>
 </tr>
 
 <tr>
-<td><b>AI / ML</b></td>
-<td>Scikit-learn • TensorFlow • LangChain</td>
-</tr>
-
-<tr style="background-color:red">
-<td><b>Frameworks</b></td>
-<td>FastAPI • Flask • Streamlit</td>
+<td><b>Orchestration</b></td>
+<td>LangChain • LLM Integration • RAG • Gemini API • Cursor (GenAI)</td>
 </tr>
 
 <tr>
-<td><b>Tools</b></td>
-<td>Pandas • NumPy • Git • Docker</td>
+<td><b>Architecture</b></td>
+<td>FastAPI • Flask • Streamlit • Node.js • SQL • Firebase • REST API</td>
+</tr>
+
+<tr>
+<td><b>Engineering</b></td>
+<td>Pandas • NumPy • Git • Docker • Tailwind CSS • Linux</td>
 </tr>
 </table>
 
 ---
 
-<!-- PROJECT CARDS -->
 <h2>Featured Projects</h2>
 
 <table width="100%">
@@ -85,17 +80,17 @@ I focus on transforming complex data into real-world solutions and productivity 
 
 <td width="50%" valign="top">
 
-<h3>CV Sniper</h3>
-<p>High-precision ATS auditing engine powered by LLMs</p>
-<p><i>Python</i></p>
+<h3>🛡️ CV Sniper</h3>
+<p>High-precision ATS auditing engine using Gemini 2.5 Flash for semantic matching[cite: 23, 26].</p>
+<p><i>Python • NLP</i></p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>AI Career Path Advisor</h3>
-<p>AI roadmap generator for structured career planning</p>
-<p><i>Python</i></p>
+<h3>🧭 Career Path Advisor</h3>
+<p>AI-driven roadmap generator designed for multi-stream professional navigation.</p>
+<p><i>Python • LangChain</i></p>
 
 </td>
 
@@ -105,17 +100,17 @@ I focus on transforming complex data into real-world solutions and productivity 
 
 <td width="50%" valign="top">
 
-<h3>AI Math Calculator</h3>
-<p>Agentic workflow system for solving math problems</p>
-<p><i>Python</i></p>
+<h3>🧮 AI Math Calculator</h3>
+<p>Solving complex math through agentic workflows and LLM reasoning.</p>
+<p><i>Python • Streamlit</i></p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>Neural LAM</h3>
-<p>Weather prediction modeling system</p>
-<p><i>Python</i></p>
+<h3>🏛️ Neural LAM</h3>
+<p>Research software for Neural Weather Prediction (GSoC Contribution).</p>
+<p><i>Python • Deep Learning</i></p>
 
 </td>
 
@@ -124,7 +119,6 @@ I focus on transforming complex data into real-world solutions and productivity 
 
 ---
 
-<!-- SERVICES -->
 <h2>What I Offer</h2>
 
 <table width="100%">
@@ -137,12 +131,12 @@ Custom ML systems
 
 <td align="center">
 <b>LLM Integration</b><br>
-RAG, Chatbots
+RAG & Chatbots
 </td>
 
 <td align="center">
 <b>Data Analysis</b><br>
-Insights & dashboards
+Insights & Visuals [cite: 10]
 </td>
 
 <td align="center">
@@ -152,7 +146,7 @@ Workflow tools
 
 <td align="center">
 <b>Web Apps</b><br>
-FastAPI / Streamlit
+FastAPI / Streamlit [cite: 16]
 </td>
 
 </tr>
@@ -160,16 +154,14 @@ FastAPI / Streamlit
 
 ---
 
-<!-- STATS -->
-<h2>GitHub Stats</h2>
+<h2 align="left">GitHub Metrics</h2>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Junaid1206&show_icons=true&theme=dark&hide_border=true"/>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Junaid1206&show_icons=true&theme=dark&hide_border=true&title_color=D4AF37&icon_color=D4AF37"/>
 </p>
 
 ---
 
-<!-- CTA -->
 <h2>Let's Work Together</h2>
 
 <table width="100%">
@@ -177,14 +169,14 @@ FastAPI / Streamlit
 
 <td width="50%">
 <p>
-I am open to freelance projects and collaborations in AI/ML and Automation.
+I am open to high-impact freelance projects and strategic AI/ML collaborations.
 </p>
 </td>
 
 <td width="50%">
 <ul>
-<li>Ask me about LLMs & Python</li>
-<li>Contact via LinkedIn or Email</li>
+<li>Expertise: LLMs, Automation & Data Science</li>
+<li>Contact: LinkedIn or Professional Email</li>
 </ul>
 </td>
 
@@ -194,5 +186,5 @@ I am open to freelance projects and collaborations in AI/ML and Automation.
 ---
 
 <p align="center">
-© 2026 Junaid Shah
+© 2026 Junaid Shah • Built with Precision
 </p>
