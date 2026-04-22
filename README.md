@@ -17,7 +17,7 @@
 <h3>Profile</h3>
 
 <ul>
-<li><b>Location:</b> Pakistan</li>
+<li><b>Location:</b>India</li>
 <li><b>Role:</b> AI/ML Engineer</li>
 <li><b>Focus:</b> NLP, LLMs, Automation</li>
 </ul>
@@ -64,7 +64,7 @@ I focus on transforming complex data into real-world solutions and productivity 
 <td>Scikit-learn • TensorFlow • LangChain</td>
 </tr>
 
-<tr>
+<tr style="background-color:red">
 <td><b>Frameworks</b></td>
 <td>FastAPI • Flask • Streamlit</td>
 </tr>
