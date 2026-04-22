@@ -1,54 +1,198 @@
-<div align="center">
+<!-- MAIN HEADER -->
+<h1 align="center">Junaid Shah</h1>
+<p align="center"><i>Data Scientist & AI/ML Engineer</i></p>
 
-# Junaid Shah
-**Data Scientist & AI/ML Engineer**
-
----
-
-*"Quality is remembered long after the price is forgotten."* — **Old Money Principle**
-
----
-
-</div>
-
-### PROFESSIONAL SUMMARY
-Computer Science student focused on **NLP** and **LLM Integration**[cite: 19, 23, 24]. I build high-precision intelligent systems to bridge the gap between complex data and actionable insights[cite: 23].
-
-### EXPERIENCE
-* **Data Analytics Intern** | Grow Tech, Indore (*Jul 2025 – Oct 2025*) [cite: 6, 7, 8]
-    * Cleaned and visualized real-world datasets using SQL and Python[cite: 10].
-    * Developed dashboards to support data-driven decision making[cite: 11].
-* **Web Developer** | Mydigital Crew, Indore (*Jun 2020 – Jan 2021*) [cite: 12, 13, 14]
-    * Built responsive web pages using HTML, CSS, and JavaScript[cite: 16].
-
-### EXPERTISE & TECH STACK
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, SQL, JavaScript, PHP [cite: 37, 47, 49, 52] |
-| **AI / ML** | Deep Learning, NLP, LLM (Gemini), Scikit-learn [cite: 24, 33, 48] |
-| **Frameworks** | FastAPI, Node.js, Streamlit, Tailwind CSS [cite: 34, 41, 50] |
-| **Tools** | Git, Docker, Firebase, VS Code, Cursor (GenAI) [cite: 35, 40, 43, 53] |
-
-### FEATURED PROJECTS
-* **CV Sniper:** ATS-friendly resume auditor using Gemini 2.5 Flash for semantic matching[cite: 22, 23, 26].
-* **Career AI Advisor:** Multi-stream roadmap generator with agentic workflows.
-* **Neural-LAM:** Research software contribution for Neural Weather Prediction.
-
-### PERFORMANCE INDEX
-<p align="left">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Junaid1206&show_icons=true&theme=tokyonight&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&hide_border=true" />
+<p align="center">
+<i>"Quality is remembered long after the price is forgotten."</i>
 </p>
 
 ---
 
-### CONTACT & COLLABORATION
-Currently open to elite freelance commissions and AI/ML research collaborations.
+<!-- TOP SECTION -->
+<table width="100%">
+<tr>
 
-* **Email:** junaidshah7922@gmail.com [cite: 2]
-* **LinkedIn:** [linkedin.com/in/junaidshah-84100b29a](https://linkedin.com/in/junaidshah-84100b29a)
-* **Location:** Indore, India [cite: 7]
+<td width="35%" valign="top">
+
+<h3>Profile</h3>
+
+<ul>
+<li><b>Location:</b> Pakistan</li>
+<li><b>Role:</b> AI/ML Engineer</li>
+<li><b>Focus:</b> NLP, LLMs, Automation</li>
+</ul>
+
+<p>
+<i>Discipline today, legacy tomorrow.</i>
+</p>
+
+</td>
+
+<td width="65%" valign="top">
+
+<h3>About Me</h3>
+
+<p>
+I specialize in building intelligent systems using NLP, LLMs, and Computer Vision.  
+I focus on transforming complex data into real-world solutions and productivity tools.
+</p>
+
+<p>
+<a href="#">LinkedIn</a> |
+<a href="#">Email</a> |
+<a href="#">Resume</a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
-<div align="center">
-© 2026 Junaid Shah. All rights reserved.
-</div>
+
+<!-- TECH STACK -->
+<h2>Expertise & Tech Stack</h2>
+
+<table width="100%">
+<tr>
+<td><b>Languages</b></td>
+<td>Python • SQL • JavaScript</td>
+</tr>
+
+<tr>
+<td><b>AI / ML</b></td>
+<td>Scikit-learn • TensorFlow • LangChain</td>
+</tr>
+
+<tr>
+<td><b>Frameworks</b></td>
+<td>FastAPI • Flask • Streamlit</td>
+</tr>
+
+<tr>
+<td><b>Tools</b></td>
+<td>Pandas • NumPy • Git • Docker</td>
+</tr>
+</table>
+
+---
+
+<!-- PROJECT CARDS -->
+<h2>Featured Projects</h2>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>CV Sniper</h3>
+<p>High-precision ATS auditing engine powered by LLMs</p>
+<p><i>Python</i></p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>AI Career Path Advisor</h3>
+<p>AI roadmap generator for structured career planning</p>
+<p><i>Python</i></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>AI Math Calculator</h3>
+<p>Agentic workflow system for solving math problems</p>
+<p><i>Python</i></p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>Neural LAM</h3>
+<p>Weather prediction modeling system</p>
+<p><i>Python</i></p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- SERVICES -->
+<h2>What I Offer</h2>
+
+<table width="100%">
+<tr>
+
+<td align="center">
+<b>AI Solutions</b><br>
+Custom ML systems
+</td>
+
+<td align="center">
+<b>LLM Integration</b><br>
+RAG, Chatbots
+</td>
+
+<td align="center">
+<b>Data Analysis</b><br>
+Insights & dashboards
+</td>
+
+<td align="center">
+<b>Automation</b><br>
+Workflow tools
+</td>
+
+<td align="center">
+<b>Web Apps</b><br>
+FastAPI / Streamlit
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- STATS -->
+<h2>GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Junaid1206&show_icons=true&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+<!-- CTA -->
+<h2>Let's Work Together</h2>
+
+<table width="100%">
+<tr>
+
+<td width="50%">
+<p>
+I am open to freelance projects and collaborations in AI/ML and Automation.
+</p>
+</td>
+
+<td width="50%">
+<ul>
+<li>Ask me about LLMs & Python</li>
+<li>Contact via LinkedIn or Email</li>
+</ul>
+</td>
+
+</tr>
+</table>
+
+---
+
+<p align="center">
+© 2026 Junaid Shah
+</p>
