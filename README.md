@@ -1,54 +1,80 @@
-<div align="center">
+<p align="center">
+  <i>Building systems that outlast trends.</i>
+</p>
 
-# 🏛️ Junaid Shah
-*Data Scientist & AI/ML Engineer*
+# Junaid Shah
 
----
+> *"Discipline today, legacy tomorrow."*
 
-| "Quality is remembered long after the price is forgotten." |
-| :--- |
-| — *Old Money Principle* |
-
----
-
-### 🖋️ PERSPECTIVE
-I specialize in building high-fidelity intelligent systems using **NLP, LLMs, and Computer Vision**. My focus is on turning complex data into actionable insights through sophisticated, minimalist engineering.
+Data Scientist & AI/ML Engineer  
+Specializing in NLP, LLMs, and Intelligent Automation
 
 ---
 
-### 💼 PORTFOLIO DIRECTORY
+## About Me
 
-| PROJECT | SPECIALIZATION | STATUS |
-| :--- | :--- | :--- |
-| **[🛡️ CV Sniper](https://github.com/Junaid1206/CV-Sniper)** | ATS Semantic Analysis | *Production Ready* |
-| **[🏛️ GSoC Contribution](https://github.com/mllam/neural-lam)** | Neural Weather Prediction | *Research* |
-| **[🧭 Career Advisor](https://github.com/Junaid1206/ai-career-path-advisor)** | Agentic Workflows | *Live* |
-| **[🧮 AI Math Solver](https://github.com/Junaid1206/AI-math-calculator)** | LangChain Reasoning | *Functional* |
+I build intelligent systems that transform complex data into practical, real-world solutions.  
+My focus lies in designing scalable AI tools that improve decision-making, productivity, and career growth.
 
 ---
 
-### 🛠️ TECHNICAL ARSENAL
+## Expertise
 
-**Core Languages**
-`Python (Expert)` / `SQL` / `JavaScript`
+**Languages**  
+Python · SQL · JavaScript  
 
-**Intelligence & Frameworks**
-`PyTorch` / `TensorFlow` / `LangChain` / `Gemini API` / `FastAPI` / `Streamlit`
+**AI / Machine Learning**  
+Scikit-learn · TensorFlow · LangChain · LLM Systems  
 
-**Infrastructure**
-`Git` / `Docker` / `Linux` / `AWS`
+**Frameworks**  
+FastAPI · Flask · Streamlit  
 
----
-
-### 📈 PERFORMANCE INDEX
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Junaid1206&show_icons=true&theme=omni&hide_border=true&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37" />
+**Tools**  
+Pandas · NumPy · Git · Docker  
 
 ---
 
-### 🤝 CORRESPONDENCE
-Currently accepting high-impact freelance commissions and research-oriented collaborations.
+## Selected Work
 
-[LinkedIn](https://linkedin.com/in/junaidshah-84100b29a)  /  [Email](mailto:your-email@example.com)  /  [Request CV](https://your-resume-link.com)
+**CV Sniper**  
+High-precision ATS auditing system powered by LLMs  
 
-</div>
+**AI Career Path Advisor**  
+AI-based roadmap generator for structured career planning  
+
+**AI Math Calculator**  
+Agentic workflow system for solving advanced math problems  
+
+---
+
+## Philosophy
+
+I believe in building systems that last.  
+Not trends — but tools that solve real problems.
+
+---
+
+## GitHub Overview
+
+- Consistent contributor  
+- Focus on practical AI applications  
+- Strong emphasis on clean architecture & usability  
+
+---
+
+## Open to Work
+
+Available for freelance projects and collaborations in:
+
+- AI / Machine Learning  
+- Automation Systems  
+- Backend Development  
+
+---
+
+## Contact
+
+LinkedIn: https://linkedin.com/in/your-link  
+Email: your@email.com  
+
+---
