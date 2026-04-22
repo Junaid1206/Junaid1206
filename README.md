@@ -1,54 +1,97 @@
-<div align="center">
+<!-- HEADER -->
+<h1 align="center">Junaid Shah</h1>
+<p align="center"><i>Data Scientist & AI/ML Engineer</i></p>
 
-# 🏛️ Junaid Shah
-*Data Scientist & AI/ML Engineer*
-
----
-
-| "Quality is remembered long after the price is forgotten." |
-| :--- |
-| — *Old Money Principle* |
+<p align="center">
+  <i>"Quality is remembered long after the price is forgotten."</i><br>
+  — Old Money Principle
+</p>
 
 ---
 
-### 🖋️ PERSPECTIVE
-I specialize in building high-fidelity intelligent systems using **NLP, LLMs, and Computer Vision**. My focus is on turning complex data into actionable insights through sophisticated, minimalist engineering.
+<!-- ABOUT -->
+<h2>About</h2>
+
+<p>
+I specialize in building intelligent systems using NLP, LLMs, and Computer Vision.  
+I focus on transforming complex data into actionable insights and building tools that solve real-world problems.
+</p>
 
 ---
 
-### 💼 PORTFOLIO DIRECTORY
+<!-- CONTACT -->
+<h2>Contact</h2>
 
-| PROJECT | SPECIALIZATION | STATUS |
-| :--- | :--- | :--- |
-| **[🛡️ CV Sniper](https://github.com/Junaid1206/CV-Sniper)** | ATS Semantic Analysis | *Production Ready* |
-| **[🏛️ GSoC Contribution](https://github.com/mllam/neural-lam)** | Neural Weather Prediction | *Research* |
-| **[🧭 Career Advisor](https://github.com/Junaid1206/ai-career-path-advisor)** | Agentic Workflows | *Live* |
-| **[🧮 AI Math Solver](https://github.com/Junaid1206/AI-math-calculator)** | LangChain Reasoning | *Functional* |
-
----
-
-### 🛠️ TECHNICAL ARSENAL
-
-**Core Languages**
-`Python (Expert)` / `SQL` / `JavaScript`
-
-**Intelligence & Frameworks**
-`PyTorch` / `TensorFlow` / `LangChain` / `Gemini API` / `FastAPI` / `Streamlit`
-
-**Infrastructure**
-`Git` / `Docker` / `Linux` / `AWS`
+<p>
+<a href="https://linkedin.com/in/your-link">LinkedIn</a> • 
+<a href="mailto:your@email.com">Email</a> • 
+<a href="#">Resume</a>
+</p>
 
 ---
 
-### 📈 PERFORMANCE INDEX
+<!-- TECH STACK -->
+<h2>Expertise & Tech Stack</h2>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Junaid1206&show_icons=true&theme=omni&hide_border=true&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37" />
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>Python • SQL • JavaScript</td>
+</tr>
+
+<tr>
+<td><b>AI / ML</b></td>
+<td>Scikit-learn • TensorFlow • LangChain</td>
+</tr>
+
+<tr>
+<td><b>Frameworks</b></td>
+<td>FastAPI • Flask • Streamlit</td>
+</tr>
+
+<tr>
+<td><b>Tools</b></td>
+<td>Pandas • NumPy • Git • Docker</td>
+</tr>
+</table>
 
 ---
 
-### 🤝 CORRESPONDENCE
-Currently accepting high-impact freelance commissions and research-oriented collaborations.
+<!-- PROJECTS -->
+<h2>Featured Projects</h2>
 
-[LinkedIn](https://linkedin.com/in/junaidshah-84100b29a)  /  [Email](mailto:your-email@example.com)  /  [Request CV](https://your-resume-link.com)
+<ul>
+<li><b>CV Sniper</b> — High-precision ATS auditing engine powered by LLMs</li>
+<li><b>AI Career Path Advisor</b> — AI roadmap generator for structured career growth</li>
+<li><b>AI Math Calculator</b> — Agentic system for solving complex math problems</li>
+<li><b>Neural LAM</b> — Research software for weather prediction modeling</li>
+</ul>
 
-</div>
+---
+
+<!-- STATS -->
+<h2>GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Junaid1206&show_icons=true&theme=dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid1206&layout=compact&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+<!-- WORK -->
+<h2>Let's Work Together</h2>
+
+<p>
+I am open to freelance opportunities and collaborations in AI/ML, Automation, and Backend Development.
+</p>
+
+<ul>
+<li>Ask me about LLMs, Vector Databases, or Python Automation</li>
+<li>Reach out via LinkedIn or Email</li>
+</ul>
+
+---
